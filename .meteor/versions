@@ -107,5 +107,7 @@ tracker@1.0.12
 ui@1.0.10
 underscore@1.0.7
 url@1.0.8
+useraccounts:core@1.14.2
+useraccounts:flow-routing@1.14.2
 webapp@1.2.7
 webapp-hashing@1.0.8
